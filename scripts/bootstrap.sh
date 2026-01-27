@@ -96,6 +96,7 @@ cat >"$CONFIG_FILE" <<EOF
   },
   "hooks": {
     "enabled": true,
+    "token": "$TOKEN",
     "internal": {
       "enabled": true,
       "entries": {
